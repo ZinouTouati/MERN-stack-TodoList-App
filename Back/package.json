@@ -1,0 +1,18 @@
+{
+  "name": "todolist-app",
+  "version": "1.0.0",
+  "description": "TodoList built with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Zinou Touati",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4",
+    "nodemon": "^1.19.3"
+  }
+}
